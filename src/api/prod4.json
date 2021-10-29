@@ -1,0 +1,11 @@
+{
+	"id": 4,
+	"title": "Printed Shirt Satin",
+	"price": 450000,
+	"inventory": 100,
+	"img": "https://i.pinimg.com/736x/de/dc/04/dedc045bf69b61257e4aaa2da4f2e6e8.jpg",
+	"content": {
+		"details": ["Durable silk like fabric", "Twin handles", "Ruched mesh", "Fit-the-shoulder design"],
+		"brand": "Boho Dreams"
+	}
+}

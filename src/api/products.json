@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"title": "White Puffed Jacket",
+		"price": 420000,
+		"inventory": 2,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ADOLij3Ac2X1efTZk-zi_9M507IeUxdr_FqTszaieqhTxy-KT6-in1v0ZYEqCTPjEpo&usqp=CAU"
+	},
+	{
+		"id": 2,
+		"title": "Mini Skirt",
+		"price": 230500,
+		"inventory": 10,
+		"img": "https://cdn.theluxurycloset.com/uploads/opt/products/750x750/luxury-women-balmain-used-clothes-p406070-004.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Longline shirt",
+		"price": 320000,
+		"inventory": 5,
+		"img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/15315994/2021/9/15/8a8406d4-ec1d-4dda-b650-d89da06fac491631687811226-MANGO-Women-White-Pure-Cotton-Solid-Longline-Casual-Shirt-42-1.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Printed Shirt ",
+		"price": 450000,
+		"inventory": 100,
+		"img": "https://i.pinimg.com/736x/de/dc/04/dedc045bf69b61257e4aaa2da4f2e6e8.jpg"
+	}
+]

@@ -1,0 +1,11 @@
+{
+	"id": 2,
+	"title": "Mini Skirt",
+	"price": 230500,
+	"inventory": 10,
+	"img": "https://cdn.theluxurycloset.com/uploads/opt/products/750x750/luxury-women-balmain-used-clothes-p406070-004.jpg",
+	"content": {
+		"details": ["Cotton fabric", "Boho Design", "Stretchable", "Short length"],
+		"brand": "Score a wardrobe win no matter the dress code with our Collection own-label collection. From polished prom to the after party!"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"title": "White Puffed Jacket",
+	"price": 420000,
+	"inventory": 2,
+	"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ADOLij3Ac2X1efTZk-zi_9M507IeUxdr_FqTszaieqhTxy-KT6-in1v0ZYEqCTPjEpo&usqp=CAU",
+	"content": {
+		"details": ["Soft-touch puffed jacket", "Zipped neck", "Sleeve detail", "Relaxed fit", "Designed to fit"],
+		"brand": "Nike"
+	}
+}
